@@ -1,4 +1,4 @@
-/*PRN - 22070123092
+/*PRN - 22070123142
 Print Number Triaangle*/
 
 
